@@ -11,9 +11,9 @@ body {
 }
 
 img {
-	max-width: 400px;
+    max-width: 400px;
     max-height: 300px;
-	border-radius: 30px;
+    border-radius: 30px;
 }
 
 main {
