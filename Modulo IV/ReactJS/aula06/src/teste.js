@@ -9,8 +9,9 @@ function calc(){
     V = (4.0/3.0)
     R = (R*R*R)
     VOLUME = arredonda((V * PI * R),3)
+    VOLUME = "VOLUME"+" "+"="+" "+VOLUME
 
-    console.log("VOLUME = "+VOLUME);
+    console.log(VOLUME);
 
 
 
