@@ -10,6 +10,7 @@ function App() {
     <h1>Hello World</h1>
     <p><Counter /></p>
     <p><SmartCounter /></p>
+    <h1>ifood</h1>
     <p><IfoodCounter /></p>
     </>
   );
